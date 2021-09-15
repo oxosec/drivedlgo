@@ -1,4 +1,4 @@
-module github.com/oxosec/drivedlgo
+module github.com/oxosec/drivedlgo/v1.4.3
 
 go 1.15
 
