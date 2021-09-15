@@ -1,4 +1,4 @@
-module github.com/oxosec/drive
+module /oxosec/drivedlgo
 
 require (
 	github.com/OpenPeeDeeP/xdg v1.0.0
