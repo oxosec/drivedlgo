@@ -1,7 +1,5 @@
 module github.com/oxosec/drivedlgo/v1.4.3
 
-go 1.15
-
 require (
 	github.com/OpenPeeDeeP/xdg v1.0.0
 	github.com/prologic/bitcask v0.3.6
@@ -11,3 +9,5 @@ require (
 	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
 	google.golang.org/api v0.33.0
 )
+
+go 1.16
